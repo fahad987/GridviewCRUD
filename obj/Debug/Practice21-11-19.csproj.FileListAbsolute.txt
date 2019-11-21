@@ -1,0 +1,6 @@
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice21-11-19\Practice21-11-19\bin\Practice21-11-19.dll.config
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice21-11-19\Practice21-11-19\bin\Practice21-11-19.dll
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice21-11-19\Practice21-11-19\bin\Practice21-11-19.pdb
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice21-11-19\Practice21-11-19\obj\Debug\Practice21-11-19.csprojResolveAssemblyReference.cache
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice21-11-19\Practice21-11-19\obj\Debug\Practice21-11-19.dll
+C:\Users\General-2\Desktop\Fahad\My Projects\Practice21-11-19\Practice21-11-19\obj\Debug\Practice21-11-19.pdb
